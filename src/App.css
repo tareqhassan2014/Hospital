@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;900&display=swap');
+
+*{
+  font-family: 'Roboto', sans-serif ;
+}
+
+
+.btn-main {
+  background-color: #081839 !important;
+  color: #fff !important;
+  border-radius: 50px;
+}
+
+.primary-color {
+  color: #081839 !important;
+}
+.secondary-color {
+  color: gray !important;
+}
+

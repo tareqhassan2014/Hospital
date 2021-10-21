@@ -1,0 +1,11 @@
+.hadar-cart{
+    background-color: #1BBDE4;
+    margin: 20px 10px;
+    padding: 30px 0 30px 30px;
+    border-radius: 10px;
+    color: white;
+}
+
+.hadar-cart h3{
+    margin-top: 5px;
+}

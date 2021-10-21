@@ -15,4 +15,4 @@ viscareo is hospital's website. It inform users about all the specialist doctors
 
 Project code [Link](https://github.com/Programming-Hero-Web-Course3/healthcare-related-website-tareqhassan2014)
 
-Live lite [Link](https://tareq-firebase-auth.web.app/)# Hospital
+Live lite [Link](https://tareq-firebase-auth.web.app/)

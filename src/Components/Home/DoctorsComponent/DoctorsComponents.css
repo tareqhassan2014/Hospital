@@ -1,0 +1,31 @@
+.doctor-top {
+  text-align: center;
+  padding: 50px 0 30px 0;
+}
+
+
+.doctor-card{
+  margin: 20px 10px;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.doctor-card .image{
+  width: 100%;
+  border-radius: 10px;
+}
+
+.doctor-info{
+  text-align: center;
+  margin: 10px 0;
+}
+
+.doctor-detail-btn{
+  border: none;
+  outline: none;
+  color: #1bbde4;
+  padding: 10px 20px;
+  border-radius: 50px;
+  text-decoration: none;
+}

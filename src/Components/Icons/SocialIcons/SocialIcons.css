@@ -1,0 +1,65 @@
+.social_icons {
+  width: 150px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.social_icons a {
+  width: 30px;
+  height: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #e6e3e3;
+  border-radius: 50%;
+  transition: all ease 0.3s;
+  text-decoration: none;
+}
+
+.social_icons a:nth-child(1) {
+  color: #0a82ed;
+}
+
+.social_icons a:nth-child(1):hover {
+  background-color: #0a82ed;
+  box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.2);
+  color: white;
+}
+
+.social_icons a:nth-child(2) {
+  color: #bc1888;
+}
+
+.social_icons a:nth-child(2):hover {
+  background: linear-gradient(
+    45deg,
+    #f09433 0%,
+    #e6683c 25%,
+    #dc2743 50%,
+    #cc2366 75%,
+    #bc1888 100%
+  );
+  box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.2);
+  color: white;
+}
+
+.social_icons a:nth-child(3) {
+  color: #009dec;
+}
+
+.social_icons a:nth-child(3):hover {
+  background-color: #009dec;
+  box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.2);
+  color: white;
+}
+
+.social_icons a:nth-child(4) {
+  color: #ff0000;
+}
+
+.social_icons a:nth-child(4):hover {
+  background-color: #ff0000;
+  box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.2);
+  color: white;
+}

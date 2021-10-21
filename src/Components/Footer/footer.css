@@ -1,0 +1,41 @@
+.footer-container{
+    background-color: #081839;
+    color: white;
+    padding: 20px 0 40px 0;
+    margin-top: 50px;
+}
+
+.footer-item{
+    margin: 20px 10px;
+}
+
+.footer-item img{
+    margin-bottom: 10px;
+}
+
+.footer-item .footer-small-icon{
+    width: 40px;
+    margin-bottom: 10px;
+}
+
+.footer-item p i {
+    color: #DB3833;
+    margin-right: 10px;
+}
+.footer-item .departments p  {
+    font-weight: 400;
+    margin-bottom: 10px;
+    transition: 0.3s all ease;
+}
+
+.footer-item .departments p:hover{
+    color: #1BBDE4;
+    cursor: pointer;
+}
+
+.footer-item-title{
+    font-size: 24px;
+    margin-left: 5px;
+    color: #1BBDE4;
+    font-weight: 700;
+}
